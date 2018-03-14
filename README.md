@@ -1,5 +1,5 @@
 # Ask Me Anything!
-I've done some open source projects, including:
+My name is Juha Lindstedt ([@pakastin](https://github.com/pakastin)). I've done some open source projects, including:
 - https://redom.js.org
 - https://deck-of-cards.js.org
 - https://nodegarden.js.org
