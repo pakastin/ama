@@ -1,7 +1,5 @@
 # Ask Me Anything!
-My name is Juha Lindstedt ([@pakastin](https://github.com/pakastin)). I started with web in 1999 and worked as an entrepreneur since 2006.
-
-Currently I'm working as web architect / partner at [iDiD digital signage.](https://www.idid.fi)
+My name is Juha Lindstedt ([@pakastin](https://github.com/pakastin)). I started with web in 1999 and worked as an entrepreneur since 2006. Currently I'm working as web architect / partner at [iDiD digital signage.](https://www.idid.fi)
 
 I've done some open source projects, including:
 - https://redom.js.org
